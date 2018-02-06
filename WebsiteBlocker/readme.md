@@ -1,6 +1,6 @@
 # Website Blocker
 By using my file manipulation skils and my knowledge of GUI Tkinter, this is an app that will prevent users from accessing certain websites during a designated amount of time
-## Warning
+## Warning/ Limitations
 For the sake for demonstration of file manipulating skills, the data of website is stored in a file rather than a database in a real-world 
 application. Therefore, the application is really local
 
