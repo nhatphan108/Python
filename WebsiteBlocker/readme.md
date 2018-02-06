@@ -9,5 +9,6 @@ Since the application messes with the hosts file which requires administrator pr
 The location of the hostsfile is different depending on your operating system. Therefore if you use a Mac, you have to change the path in the backend file :"/private/etc/hosts"
 
 ## How to use
-As for the interface itself, the application is made in a way that it is straightforward to the user. You add and delete websites by using buttons. To set the desginated time, edit the To and From box from the application. To execute the program, hit "Execute the program" to get the script running.
+To start the program, run Application.py.
+As for the interface itself, the application is made in a way that it is straightforward to the user. You add and delete websites by using buttons. To set the desginated time, edit the To and From box from the application and save Time. To execute the program, hit "Execute the program" to get the script running.
 Now that you have executed the program, no more worries about getting distracted and code away.
